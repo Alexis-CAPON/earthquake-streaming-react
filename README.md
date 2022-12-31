@@ -18,6 +18,8 @@
 
 ## Quick start
 
+It's generate mock data of earthquake and display it in a react website in realtime with socket.io. 
+
 You need to start 2 terminals, one in the backend folder and the other one in the frontend.
 
 ```
