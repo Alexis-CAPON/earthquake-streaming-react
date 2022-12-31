@@ -33,7 +33,7 @@ yarn install && yarn start
 Second terminal:
 ```
 cd backend-express
-yarn install && nodemon server.js
+yarn install && yarn add nodemon && nodemon server.js
 ```
 
 
