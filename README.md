@@ -1,17 +1,9 @@
 # React website Earthquake Streaming data
-For bigdata-ecosystem project 2022
-
-Members :
-Alexis Capon
-Cyril Perez
-Arthur Auffray
-
-
 <p align="center">
   <h3 align="center">Real-time Earthquake Streaming</h3>
 
   <p align="center">
-    React Website
+    Bigdata Ecosystem project 2022
     <br>
   </p>
 </p>
